@@ -1,5 +1,7 @@
 # SUSE Linux Enterprise Server 15 Ansible Test Image
 
+> Deprecated. This repository is no longer maintained and will be archived.
+
 [![CI](https://github.com/head1328/docker-sles15-ansible/workflows/Build/badge.svg?branch=master&event=push)](https://github.com/head1328/docker-sles15-ansible/actions?query=workflow%3ABuild) [![Docker pulls](https://img.shields.io/docker/pulls/head1328/docker-sles15-ansible)](https://hub.docker.com/r/head1328/docker-sles15-ansible/)
 
 SUSE Linux Enterprise Server 15 Docker container for Ansible playbook and role testing.
